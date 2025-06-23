@@ -1,10 +1,10 @@
 # Hostel Management App
 
-This is a project for managing hostel notices, room allocations, fees, and more using Kotlin and Firebase.
+This is a project for managing hostel room allocations, fees, Student registration and more using Kotlin and XML.
 
 ## Features
-- Admin & Student Login
-- Notice Board
+- Notification & Mess Meal Routine
+- Student Registration
 - Room Allocation
 - Fees Tracker
 
