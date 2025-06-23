@@ -13,4 +13,7 @@ This is a project for managing hostel room allocations, fees, Student registrati
 - Jetpack Compose
 
 ## Authors
-- Vandana, Samreen Fatima, Priya Yadav, Sakshi Singh...
+- Vandana
+- Samreen Fatima
+- Priya Yadav
+- Sakshi Singh
